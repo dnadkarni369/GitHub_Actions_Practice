@@ -1,4 +1,4 @@
 # GitHub_Actions_Practice
 Practice Repo for GitHub Actions
 
-to be updated
+To be updated
